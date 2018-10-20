@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "235744688597",
+    "firebase_url": "https://mobileotpverification-ae601.firebaseio.com",
+    "project_id": "mobileotpverification-ae601",
+    "storage_bucket": "mobileotpverification-ae601.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235744688597:android:813637f30f18c9b9",
+        "android_client_info": {
+          "package_name": "demoproject.angadi.com.mobileotpverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235744688597-lt8k1ina91mbmrd4ljgg2j6fnnea2gea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "demoproject.angadi.com.mobileotpverification",
+            "certificate_hash": "e6dba95fadc40c613dddd97077e2685eed925ae9"
+          }
+        },
+        {
+          "client_id": "235744688597-531ks1va0pknd438h79489d2sk5bij8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ__iQGcHe8HnfgNSjl0rW8yrJpQsMzhU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235744688597-531ks1va0pknd438h79489d2sk5bij8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
